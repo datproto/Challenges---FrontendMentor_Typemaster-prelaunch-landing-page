@@ -5,7 +5,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "type-check": "tsc --project tsconfig.json --pretty --noEmit",
+    "prepare": "husky install"
   },
   "dependencies": {
     "next": "12.0.10",
@@ -15,8 +17,27 @@
   "devDependencies": {
     "@types/node": "17.0.16",
     "@types/react": "17.0.39",
-    "eslint": "8.8.0",
+    "@typescript-eslint/eslint-plugin": "^5.11.0",
+    "@typescript-eslint/parser": "^5.11.0",
+    "autoprefixer": "^10.4.2",
+    "eslint": "^8.8.0",
+    "eslint-config-airbnb": "^19.0.4",
     "eslint-config-next": "12.0.10",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "husky": ">=6",
+    "lint-staged": ">=10",
+    "postcss": "^8.4.6",
+    "postcss-import": "^14.0.2",
+    "prettier": "^2.5.1",
+    "tailwindcss": "^3.0.19",
     "typescript": "4.5.5"
+  },
+  "lint-staged": {
+    "*.js": "eslint --cache --fix",
+    "*.{js,css,md}": "prettier --write"
   }
 }
