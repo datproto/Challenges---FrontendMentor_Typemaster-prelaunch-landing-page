@@ -1,0 +1,22 @@
+.btn {
+  @apply cursor-pointer font-[700] py-3 px-[14px] rounded-lg;
+  @screen md {
+    @apply py-4 px-[26px];
+  }
+
+  &-orange {
+    @apply bg-orange-default uppercase text-white;
+
+    &:hover {
+      @apply bg-orange-light;
+    }
+  }
+
+  &-gray {
+    @apply bg-gray uppercase text-navi-default;
+
+    &:hover {
+      @apply bg-navi-default text-white;
+    }
+  }
+}

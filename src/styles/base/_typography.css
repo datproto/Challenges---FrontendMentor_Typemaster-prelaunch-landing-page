@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@500;700;900&display=swap');
+
+h1 {
+  @apply uppercase font-heading text-5xl leading-[3rem] text-navi-default;
+  @screen xl {
+    @apply text-[3.5rem] leading-[3.5rem];
+  }
+}
+h2 {
+  @apply uppercase font-heading text-[2rem] leading-9 text-navi-default;
+}
+h3 {
+  @apply uppercase font-heading text-2xl leading-7 text-navi-default;
+}
+
+p {
+  @apply font-body text-base leading-[1.625rem] text-navi-light;
+}
