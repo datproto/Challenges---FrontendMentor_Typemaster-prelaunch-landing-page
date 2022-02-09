@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repo](https://github.com/datproto/Challenges---FrontendMentor_Typemaster-prelaunch-landing-page).
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com).
+- Live Site URL: [Typemaster keyboard - Solution](https://challenges-frontend-mentor-typemaster-prelaunch-landing-page.vercel.app/).
 
 ## My process
 
@@ -70,10 +70,11 @@ Especially, I had learned how to custom my style inline without creating new css
 
 This project only requires to create static layout, but I want to add more features, such as:
 
-- Animation to reveal images / icons.
-- Transition on button or other components.
-- Add more components such as Order form, or pages such as Buying Cart.
 - Add a Storybook for this project.
+- Add animation to reveal images / icons.
+- Transition on button or other components.
+- Config images' size for bigger screen (FullHD, Retina etc.)
+- Add more components such as Order form, or pages such as Buying Cart.
 - etc.
 
 ### Useful resources
