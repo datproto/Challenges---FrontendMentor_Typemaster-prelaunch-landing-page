@@ -85,5 +85,8 @@ This project only requires to create static layout, but I want to add more featu
 ## Author
 
 - Website - [Dat Proto](https://datproto.com)
-- Frontend Mentor - [@datproto](https://www.frontendmentor.io/profile/datproto)
+- LinkedIn - [@datdotat](https://www.linkedin.com/in/datdotat/)
 - Twitter - [@datproto1997](https://www.twitter.com/datproto1997)
+- Github - [@datdotatprotocol](https://github.com/datdotatprotocol)
+- Codewars - [@datprotocol](https://www.codewars.com/users/datprotocol)
+- Frontend Mentor - [@datproto](https://www.frontendmentor.io/profile/datproto)
