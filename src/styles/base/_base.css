@@ -3,16 +3,16 @@ body,
 body > div:first-child,
 div#__next,
 div#__next > div {
-  @apply h-full w-full;
+  @apply w-full;
   overflow-x: hidden;
 }
 
 div#__next > div {
-  @apply h-full w-full;
+  @apply w-full;
 }
 
 main {
-  @apply p-6 h-full w-full flex flex-col gap-16;
+  @apply p-6 w-full flex flex-col gap-24;
 
   @screen md {
     @apply p-10;

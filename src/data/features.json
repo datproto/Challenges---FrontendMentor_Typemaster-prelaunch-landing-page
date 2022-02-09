@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "icon": {
+      "name": "compatible",
+      "width": 26,
+      "height": 21
+    },
+    "title": {
+      "line_1": "highly",
+      "line_2": "compatible"
+    },
+    "desc": "Easy to use and works well with all major computer brands, gaming consoles and mobile devices. Plug & play, no installation or driver needed."
+  },
+  {
+    "id": 2,
+    "icon": {
+      "name": "bluetooth",
+      "width": 19,
+      "height": 28
+    },
+    "title": {
+      "line_1": "wireless",
+      "line_2": "with bluetooth"
+    },
+    "desc": "Powerful 2.4G RF technology allows you to connect the cordless keyboard from up to 30ft away. Simply plug the unifying receiver into your computer."
+  },
+  {
+    "id": 3,
+    "icon": {
+      "name": "battery",
+      "width": 32,
+      "height": 21
+    },
+    "title": {
+      "line_1": "high capacity",
+      "line_2": "battery"
+    },
+    "desc": "Equipped with a long-lasting built-in battery, you’ll never have to spend a dime on replaceable ones. Enjoy 40 hours of usage time between charges."
+  },
+  {
+    "id": 4,
+    "icon": {
+      "name": "light",
+      "width": 32,
+      "height": 32
+    },
+    "title": {
+      "line_1": "rgb backlit",
+      "line_2": "modes"
+    },
+    "desc": "Choose from 4 backlight brightness levels and adjustable breathing speed. Each key glows intensely in the dark and helps you type in low light conditions."
+  }
+]
